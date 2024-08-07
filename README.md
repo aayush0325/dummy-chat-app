@@ -1,0 +1,1 @@
+dummy chat app, learning socketio, not integrated database for now, configured to run on my hotspots ip, removed the ip from the code for now, configure it in frontend -> vite.config.ts
